@@ -5,11 +5,11 @@ built following https://github.com/GadgetReboot/Arduino/tree/adf95ad05b710d7a584
 
 This sketch is designed to control a moving head light via DMX. 
 There are three modes: 
-- Dinner Mode, where the moving head rotates slowly with warm lighting;
-- Party Mode, where the moving head spins quickly, changing colors rapidly;
-- Joystick Mode, where you can direct the moving head with a joystick.
+- A - Dinner Mode, where the moving head rotates slowly with warm lighting;
+- B - Party Mode, where the moving head spins quickly, changing colors rapidly;
+- C - Joystick Mode, where you can direct the moving head with a joystick.
 
-One button is dedicated to switching modes, while two others are used to save/reset the current joystick position and to change the light color.
+The mode can be changed through the A, B, and C buttons on the shield. The way to change the color could be coming soon ;)
 
 Build up with:
 
